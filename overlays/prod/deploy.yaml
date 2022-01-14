@@ -10,3 +10,5 @@ spec:
           env:
             - name: ENVIRONMENT
               value: PROD
+            - name: PING
+              value: PONG
