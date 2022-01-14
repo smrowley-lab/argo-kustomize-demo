@@ -4,3 +4,4 @@ metadata:
   name: myapp-config
 data:
   config.txt: This is the Prod config
+  sample.txt: Hello, World!
