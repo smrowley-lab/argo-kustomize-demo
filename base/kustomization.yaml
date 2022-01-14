@@ -1,0 +1,6 @@
+resources:
+- https://raw.githubusercontent.com/smrowley/koncepts/master/kube/deploy.yaml
+- configmap.yaml
+- route.yaml
+commonLabels:
+  example: my-super-cool-app
